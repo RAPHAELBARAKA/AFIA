@@ -1,0 +1,166 @@
+.home1{
+    background-color: #C00100;
+    margin-right: 1080px;
+    height:80vh;
+    margin-top: 5px;
+    
+}
+.home1 ul{
+    background-color:#C00100;
+    color: white;
+    margin-left: 20px;
+
+    
+}
+.home2{
+    background-color: #C00100;
+    margin-right: 1080px;
+    margin-top:-20px;
+    height: 120px;
+    
+
+}
+.home2 ul{
+    background-color:#C00100;
+    color: white;
+    margin-left: 10px;
+    
+}
+.dash{
+    font-weight: bolder;
+    font-size: larger;
+    padding-left:5px;
+    margin-left:-20px ;
+}
+.imaged{
+    display: flex;
+    background-color: #C00100;
+    margin-left: -10px;
+    
+}
+.dashlog{
+    height:40px;
+    width:40px;
+margin-left: 19px;
+margin-bottom:15px;
+
+} 
+.h1dash{
+    color: white;
+    margin-left:300px;
+    margin-top:-5px;
+    background-color:peru;
+    border-radius: 10px;
+    padding-left: 80px;
+    padding-right: 60px;
+}
+.dashb{
+    margin-top: 2px;
+    color: white;
+    margin-left: -6px;
+}
+.dashright1{
+    display: flex;
+    gap: 20px;
+}
+.dashright12{
+    display: flex;
+    gap:60px;
+    margin-left: 150px;
+}
+.dashright12 p{
+    background-color: pink;
+    width: 250px;
+    padding-top:50px;
+    margin-top: -50px;
+    height:150px;
+    text-align: center;
+    border-radius: 20px;
+}
+.dashright2{
+    display: flex;
+    gap:20px;
+}
+.dashright21{
+    display: flex;
+    gap:60px;
+    margin-left: 140px;
+}
+
+.dashright21 p{
+    background-color: pink;
+    width: 250px;
+    padding-top:50px;
+    margin-top:0px;
+    height:140px;
+    text-align: center;
+    border-radius: 20px;
+}
+.dashright3{
+    display: flex;
+    gap:60px;
+
+    
+}
+.dashright3 h3{
+    margin-left: 300px;
+    width: 200px;
+    
+    
+}
+.homepoiter{
+    margin-top:30px ;
+    height: 30px;
+    margin-left:-110px ;
+}
+
+.homepoiter1{
+    margin-left:-110px;
+    height:30px;
+    margin-top: 90px;
+}
+.specialisticon{
+    height: 15px;
+    margin-top:-4px;
+    margin-left: -30px;
+}
+.appoitmenticon{
+    height: 15px;
+    margin-left: -30px;
+    margin-top: -4px;
+
+}
+.historyicon{
+    height: 15px;
+    margin-left: -30px;
+    margin-top: -4px;
+}
+.settingicon1{
+width:20px;
+margin-left: -30px;
+margin-bottom:0px;
+}
+.settingicon2{
+    width: 20px;
+    margin-left:-30px ;
+    margin-bottom: 0px;
+}
+.settingicon3{
+    width: 20px;
+    margin-top: -10px;
+    margin-left: -30px;
+    margin-bottom:-5px;
+}
+.lightmodeicon{
+    width:20px;
+    height: 20px;
+    margin-bottom:-45px;
+    margin-left: 20px;
+}
+
+.lightmodeicon1{
+    width:30px;
+    height: 20px;
+    margin-top: -35px;
+    margin-left:-20px;
+}

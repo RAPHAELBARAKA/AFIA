@@ -1,0 +1,60 @@
+.log{
+    background-image: url('./hospital.jpeg');
+    background-size: cover;
+    height: 100vh;
+}
+
+
+.log1{
+    
+    margin-right: 370px;
+    margin-left: 500px;
+    padding-left: 40px;
+    border-radius: 20px;
+    height: 450px;
+    padding-bottom: 00px;
+    padding-top: 30px;
+    margin-bottom: 00px;
+    background-color: white;
+    
+}
+.picc{
+    height: 40px; 
+    margin-top: -80px;
+    margin-left:  110px;
+    margin-bottom: -50px;
+  
+}
+.logg{
+    margin-left:100px;
+    margin-top: 10px;
+}
+.sin{
+    display: flex;
+    
+}
+.subm{
+    margin-left:  100px;
+    color:white;
+    background-color: #C00100;
+    border-radius: 5px;
+    width: 80px;
+    border: 0px;
+    height: 30px; 
+}
+.input20{
+    width: 300px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: #DEE1E6;  
+}
+
+.input21{
+    width: 300px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: #DEE1E6;  
+}
+.re-set{
+    display: flex;
+}

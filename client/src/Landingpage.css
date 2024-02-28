@@ -1,0 +1,240 @@
+.nav1{
+    background-color:brown;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 80px;
+    margin-left: 45px;
+  }
+  
+  .homelogo{
+    
+    height: 40px;
+    margin-top: 10px;
+  }
+  
+  .home{
+    font-weight: bolder;
+    color: white;
+    height: 40px;
+    padding-top: 20px;
+    margin-top: 10px;
+    margin-left: 50px;
+    width: 110px;
+    text-align: center;
+    
+  }
+  .service{
+    font-weight: bolder;
+    color: white;
+    height: 40px;
+    padding-top: 20px;
+    margin-top: 10px;
+    margin-left:75px;
+    width: 110px;
+    text-align: center;
+  }
+  .about{
+    font-weight: bolder;
+    color: white;
+    height: 40px;
+    padding-top: 20px;
+    margin-top: 10px;
+    margin-left:65px;
+    width: 110px;
+    text-align: center;
+  }
+  .contact{
+    font-weight: bolder;
+    color: white;
+    height: 40px;
+    padding-top: 20px;
+    margin-top: 10px;
+    margin-left:85px;
+    width: 110px;
+    text-align: center;
+  }
+  .register{
+    font-weight: bolder;
+    height: 40px;
+    padding-top: 20px;
+    margin-top: 10px;
+    margin-left:100px;
+    width: 110px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+  }
+  .login3{
+    font-weight: bolder;
+    height: 40px;
+    padding-top: 20px;
+    margin-top: 10px;
+    margin-left:130px;
+    width: 120px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+  }
+  .img{
+    margin-top:10px;
+    height: 350px;
+    margin-left: 50px;
+    width: 178vh;
+    margin-right: 100px;
+  }
+  
+  .services{
+    display:flex;
+    margin-top: 40px;
+    justify-content: space-between;
+    margin-right: 80px;
+    margin-left: 50px;
+  }
+  .services1{
+    display:flex;
+    margin-top: 80px;
+    justify-content: space-between;
+    margin-right: 80px;
+    margin-left: 50px;
+    
+  }
+  .services2{
+    display:flex;
+    margin-top: 120px;
+    justify-content: space-between;
+    margin-right: 80px;
+    margin-left: 50px;
+  
+  }
+  .services3{
+    display:flex;
+    margin-top: 160px;
+    justify-content: space-between;
+    margin-right: 80px;
+    margin-left: 50px;
+    background-color: pink;
+    
+  
+  }
+  .meds{
+    border-radius: 20px;
+    background-color: #852e08;
+    width: 310px;
+    height: 200px;
+    text-align: center;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+  }
+  .consumables{
+    border-radius: 20px;
+    background-color: #852e08;
+    width: 310px;
+    height: 200px;
+    text-align: center;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+  }
+  .pharm{
+    border-radius: 20px;
+    background-color: #852e08;
+    width: 310px;
+    height: 200px;
+    text-align: center;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+  }
+  .opt{
+    border-radius: 20px;
+    background-color: #852e08;
+    width: 310px;
+    height: 200px;
+    text-align: center;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+  }
+  .con{
+    border-radius: 20px;
+  background-color: #852e08;
+  width: 310px;
+  height: 200px;
+  text-align: center;
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+  }
+  .phy{
+    border-radius: 20px;
+    background-color:#852e08;
+    width: 310px;
+  height: 200px;
+  text-align: center;
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+  }
+  .nut{
+    border-radius: 20px;
+    background-color: #852e08;
+    width: 310px;
+  height: 200px;
+  text-align: center;
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+  }
+  .amb{
+    border-radius: 20px;
+    background-color: #852E08;
+    width: 310px;
+  height: 200px;
+  text-align: center;
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+  }
+  .lab{
+    border-radius: 20px;
+    background-color:#852e08;
+    width: 310px;
+  height: 200px;
+  text-align: center;
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+  }
+  .mis{
+    border-radius: 20px;
+    width: 310px;
+    height: 200px;
+    text-align: center;
+    color: black;
+    text-align: center;
+    padding-top: 100px;
+   background-color: #D9D9D9;
+  
+  }
+  .abo{
+    border-radius: 20px;
+    width: 310px;
+    height: 200px;
+    text-align: center;
+    color: black;
+    text-align: center;
+    padding-top: 100px;
+   background-color: #D9D9D9;
+  }
+  .cont{
+    border-radius: 20px;
+    width: 310px;
+    height: 200px;
+    text-align: center;
+    color: black;
+    text-align: center;
+    padding-top: 100px;
+    background-color: #D9D9D9;
+  }
+  

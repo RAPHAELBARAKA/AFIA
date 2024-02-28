@@ -1,0 +1,52 @@
+
+.register1{
+    background-image: url('./hospital.jpeg');
+    background-size: cover;
+
+}
+.register2{
+    margin-right: 370px;
+    margin-left: 500px;
+    padding-left: 40px;
+    border-radius: 20px;
+    height: 650px;
+    padding-bottom: 160px;
+    padding-top: 50px;
+    background-color: white;
+
+}
+.label{
+   color: black;
+   background-color: white;
+}
+.text{
+    width: 300px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: #DEE1E6;
+
+}
+.sign{
+    margin-left:  80px;
+    color:white;
+    background-color: #C00100;
+    border-radius: 5px;
+    width: 150px;
+    border: 0px;
+    height: 30px;
+}
+.sign:hover{
+    background-color: blue;
+}
+.sig{
+    margin-left: 60px;
+
+}
+.image{
+   height: 30px; 
+   margin-top: -60px;
+   margin-left:  90px;
+
+
+}
+   

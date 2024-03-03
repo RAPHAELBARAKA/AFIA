@@ -1,8 +1,7 @@
 
 .register1{
-   /* background-image: url('./hospital.jpeg'); */
+    background-image: url('./hospital.jpeg');
     background-size: cover;
-    background-color: pink;
 
 }
 .register2{

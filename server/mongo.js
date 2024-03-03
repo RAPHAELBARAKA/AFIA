@@ -29,7 +29,16 @@ const newSchema = new mongoose.Schema({
                  type:String,
                 required:true},   
      otp: {
-                    type: String  }          
+                    type: String  },
+                    
+     passOtp:{ type:String
+
+                    } ,
+    isVerified: {
+            type: Boolean,
+            default: false // Set default value to false
+  }
+                    
 })
 
 const collection=mongoose.model("collection", newSchema)

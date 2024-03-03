@@ -8,7 +8,6 @@ import historyicon from './assets/historyicon.png'
 import settingicon from './assets/Setting.png'
 import lightmodeicon from './assets/lightmodeicon.png'
 import lightmodeicon1 from './assets/lightmodeicon1.png'
-import logouticon from './assets/logout.png'
 
 function Home() {
   return (
@@ -32,7 +31,7 @@ function Home() {
           <ul> <img className='settingicon1'src={settingicon} alt='setting'/> Payments</ul>
           <ul><img className='settingicon2' src={settingicon} alt='setting'/>  Customer Care</ul>
           <div className='dashright2'>
-            <ul><img className='settingicon3'  src={settingicon} alt='setting'/> MyAccount</ul>
+            <ul><img className='settingicon3'  src={settingicon} alt='setting'/> MyAcccount</ul>
               <div  className='dashright21'>
                 <p>Book appointment </p> <img className='homepoiter1' src={homePointer} alt='poiter'/>
                 <p>Teleclinics</p> <img className='homepoiter1'  src={homePointer} alt='poiter'/> 
@@ -43,7 +42,7 @@ function Home() {
       <div className='home2'>
       <img className='lightmodeicon' src={lightmodeicon} alt='lightmodeicon'/> <ul>Light mode</ul>
         <div className='dashright3'>
-        <img className='logout1' src={logouticon} alt='logouticon'/>   <ul>Logout</ul><img className='lightmodeicon1' src={lightmodeicon1} alt='lightmodeicon1'/>
+           <ul>Logout</ul><img className='lightmodeicon1' src={lightmodeicon1} alt='lightmodeicon1'/>
           <h3>Powered,by..E&M..Technologies</h3>
         </div>
       </div>

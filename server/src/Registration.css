@@ -1,7 +1,6 @@
 .const{
-   /*background-image: url('./hospital.jpeg');*/
+    background-image: url('./hospital.jpeg');
     background-size: cover;
-    background-color:#DEE1E6;
 }
 
 
@@ -42,9 +41,8 @@
 .input1{
     width: 300px;
     height: 35px;
-    border-radius: 5px;
-    background-color: white; 
-    border-width: 0.02ch;
+    border-radius: 10px;
+    background-color: #DEE1E6;  
 }
 .load{
     color:red;

@@ -1,0 +1,48 @@
+.ver1{
+  background-color:pink;
+  background-size: cover;
+  height: 100vh;
+
+}
+
+
+.ver{
+  margin-right: 370px;
+    margin-left: 500px;
+    padding-left: 40px;
+    border-radius: 20px;
+    height: 400px;
+    padding-bottom: 160px;
+    padding-top: 30px;
+    background-color: white;
+    text-align: center;
+    
+}
+
+
+
+/*.inp{
+  display: flex;
+  justify-content: center;
+  gap: 40px; /* Adjust the gap between inputs */
+ /* display: flex;
+  flex-direction: column;
+  align-items: center;
+}*/
+
+.ver input[type="text"] {
+  width: 60px; /* Adjust the width of each input */
+  text-align: center;
+  gap: 50px;
+  height: 70px;
+}
+.tele{
+  color:#C00100;
+}
+.buttonv{
+  width: 240px;
+  background-color:  #C00100;
+  color: white;
+  height: 40px;
+  border-radius: 10px;
+}

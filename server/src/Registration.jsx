@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { useState } from 'react';
 import axios from 'axios';
@@ -63,15 +62,15 @@ function Registration() {
         <img className='pic'  src={myPic} alt="Description"/>
         <label className='sigg'>____User registration___</label><br/>
         <label>Full name</label><br/>
-        <input className='input1' name="text" onChange={(e)=>{setName(e.target.value)}} placeholder='Enter your Name' cols="30" rows="10"></input> <br/><br/>
+        <input className='input1' name="text" onChange={(e)=>{setName(e.target.value)}} placeholder='enter your Name' cols="30" rows="10"></input> <br/><br/>
         <label>Email</label><br/>
-        <input className='input1'  name="text" onChange={(e)=>{setEmail(e.target.value)}} placeholder='Enter your Email' cols="30" rows="10"></input><br/><br/>
+        <input className='input1'  name="text" onChange={(e)=>{setEmail(e.target.value)}} placeholder='enter your Email' cols="30" rows="10"></input><br/><br/>
         <label>Phone number</label><br/>
-        <input className='input1' name="text" onChange={(e)=>{setPhone(e.target.value)}} placeholder='Enter your phone number' cols="30" rows="10"></input> <br/><br/>
+        <input className='input1' name="text" onChange={(e)=>{setPhone(e.target.value)}} placeholder='enter your phone number' cols="30" rows="10"></input> <br/><br/>
         <label>Id number</label><br/>
-        <input className='input1' name="text" onChange={(e)=>{setId(e.target.value)}} placeholder='Enter your Id' cols="30" rows="10"></input><br/><br/>
+        <input className='input1' name="text" onChange={(e)=>{setId(e.target.value)}} placeholder='enter your Id' cols="30" rows="10"></input><br/><br/>
         <label>Password</label><br/>
-        <input className='input1' name="text" onChange={(e)=>{setPassword(e.target.value)}} placeholder='Enter your Password' cols="30" rows="10"></input> <br/><br/>
+        <input className='input1' name="text" onChange={(e)=>{setPassword(e.target.value)}} placeholder='enter your Password' cols="30" rows="10"></input> <br/><br/>
         <label>Confirm password</label><br/>
         <input className='input1' name="text" onChange={(e)=>{setConfirm(e.target.value)}} placeholder='Confirm your password' cols="30" rows="10"></input><br/><br/>
 

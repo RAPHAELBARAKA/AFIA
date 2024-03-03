@@ -60,16 +60,16 @@ function VerifyOtp() {
     };
     return (
 
-      <div className='ver11'>
-        <div className='ver1'>
-        <h2 className='tele1'>TeleAfia</h2>  
+      <div className='ver1'>
+        <div className='ver'>
+        <h2 className='tele'>TeleAfia</h2>  
         <h5>_____OTP Verification_____</h5>
          <p>A verification code has been sent to {email}. If the email address is incorrect, you can go back and change it.</p><br/>
            <p>Enter OTP sent to your device here</p>
             <form onSubmit={handleVerifyOTP}>
                 <div>
                     {otp.map((value, index) => (
-                        <input className='inpu1'
+                        <input className='inpu'
                             key={index}
                             type="text"
                             maxLength={1}
@@ -78,15 +78,13 @@ function VerifyOtp() {
                         />
                     ))}
                 </div><br/>
-                <button className='buttonv1' type="submit" disabled={loading}>Verify OTP</button>
+                <button className='buttonv' type="submit" disabled={loading}>Verify OTP</button>
             </form><br/>
             <button onClick={handleResendOTP} disabled={loading}>Resend OTP</button>
         </div>
     </div>    
     );
 }
-
-
 
 
 export default VerifyOtp

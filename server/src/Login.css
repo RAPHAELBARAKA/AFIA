@@ -1,26 +1,21 @@
 .log{
-   /* /*background-image: url('./hospital.jpeg'); */
-   background-size: cover;
-   background-position: center;
-   height: 100vh; 
-    background-color: #DEE1E6;
-
+    background-image: url('./hospital.jpeg');
+    background-size: cover;
+    height: 100vh;
 }
 
 
 .log1{
-    position: absolute;
-    margin-right: 340px;
+    
+    margin-right: 370px;
     margin-left: 500px;
     padding-left: 40px;
     border-radius: 20px;
-    height: 480px;
+    height: 450px;
     padding-bottom: 00px;
     padding-top: 30px;
-    margin-top: 70px;
+    margin-bottom: 00px;
     background-color: white;
-    padding-right: 40px;
-
     
 }
 .picc{
@@ -36,7 +31,6 @@
 }
 .sin{
     display: flex;
-    margin-left: 80px;
     
 }
 .subm{
@@ -44,27 +38,23 @@
     color:white;
     background-color: #C00100;
     border-radius: 5px;
-    width: 120px;
+    width: 80px;
     border: 0px;
-    height: 50px; 
-    text-align: center;
+    height: 30px; 
 }
 .input20{
     width: 300px;
     height: 45px;
-    border-radius: 5px;
-    background-color: white; 
-    border-width: 0.002ch;
+    border-radius: 10px;
+    background-color: #DEE1E6;  
 }
 
 .input21{
     width: 300px;
     height: 45px;
-    border-radius: 5px;
-    background-color:white;  
-    border-width: 0.002ch;
+    border-radius: 10px;
+    background-color: #DEE1E6;  
 }
 .re-set{
-    margin-left: 80px;
     display: flex;
 }

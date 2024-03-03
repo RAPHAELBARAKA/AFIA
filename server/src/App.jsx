@@ -8,8 +8,7 @@ import Home from './Home'
 import Landingpage from './Landingpage'
 import PasswordOtp from './PasswordOtp'
 import VerifyOtp from './VerifyOtp'
-import VerifypassOtp from './VerifypassOtp'
-import ResetPassword from './ResetPassword'
+import VerifypassOtp from '../VerifypassOtp'
 
 function App() {
 
@@ -20,11 +19,10 @@ function App() {
       <Route path='/login' element={<Login/>}></Route>
       <Route path='/registers' element={<Registration/>}></Route>
       <Route path='/Home' element={<Home/>}></Route>
-      <Route path='/landingpage' element={<Landingpage/>}></Route>
+      <Route path='/landingpage' element={<Landingpage/>}Forg></Route>
       <Route path='/PasswordOtp' element={<PasswordOtp/>}></Route>
       <Route path='/verify-otp' element={<VerifyOtp/>}></Route>
       <Route path='/VerifypassOtp' element={<VerifypassOtp/>}></Route>
-      <Route path='/Resetpassword' element={<ResetPassword/>}></Route>
     </Routes>
     </BrowserRouter>
   )
